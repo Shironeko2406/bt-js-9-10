@@ -1,0 +1,27 @@
+// Lựa chọn các phần tử DOM cần thiết
+// var newMemberAddBtn = document.querySelector('.addMemberBtn'), // Nút thêm thành viên mới
+//     darkBg = document.querySelector('.dark_bg'), // Nền tối
+//     popupForm = document.querySelector('.popup'), // Biểu mẫu popup
+//     crossBtn = document.querySelector('.closeBtn'), // Nút đóng popup
+//     submitBtn = document.querySelector('.submitBtn'), // Nút gửi biểu mẫu
+//     modalTitle = document.querySelector('.modalTitle'), // Tiêu đề của popup
+//     popupFooter = document.querySelector('.popupFooter'), // Footer của popup
+//     imgInput = document.querySelector('.img'), // Đầu vào hình ảnh
+//     imgHolder = document.querySelector('.imgholder'), // Nơi hiển thị hình ảnh
+//     form = document.querySelector('form'), // Biểu mẫu
+//     formInputFields = document.querySelectorAll('form input'), // Các trường đầu vào trong biểu mẫu
+//     uploadimg = document.querySelector("#uploadimg"), // Đầu vào tải lên hình ảnh
+//     fName = document.getElementById("fName"), // Đầu vào tên
+//     lName = document.getElementById("lName"), // Đầu vào họ
+//     age = document.getElementById("age"), // Đầu vào tuổi
+//     city = document.getElementById("city"), // Đầu vào thành phố
+//     position = document.getElementById("position"), // Đầu vào vị trí
+//     salary = document.getElementById("salary"), // Đầu vào lương
+//     sDate = document.getElementById("sDate"), // Đầu vào ngày bắt đầu
+//     email = document.getElementById("email"), // Đầu vào email
+//     phone = document.getElementById("phone"), // Đầu vào số điện thoại
+//     entries = document.querySelector(".showEntries"), // Hiển thị số lượng mục
+//     tabSize = document.getElementById("table_size"), // Kích thước bảng
+//     userInfo = document.querySelector(".userInfo"), // Thông tin người dùng
+//     table = document.querySelector("table"), // Bảng
+//     filterData = document.getElementById("search"); // Đầu vào dữ liệu tìm kiếm
